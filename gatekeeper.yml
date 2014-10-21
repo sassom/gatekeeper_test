@@ -1,0 +1,13 @@
+ci: travis
+review_rules:
+  "/":
+    maintainers:
+      - sassom
+      - rob
+    reviews_needed: 1
+
+  "/.gatekeeper.yml":
+    maintainers:
+      - sassom
+      - rob
+    reviews_needed: 2
