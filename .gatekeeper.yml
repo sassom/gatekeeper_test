@@ -3,12 +3,12 @@ review_rules:
   "/":
     maintainers:
       - sassom
-      - rob
+      - smatejina
     reviews_needed: 1
 
   "/.gatekeeper.yml":
     maintainers:
       - sassom
-      - rob
+      - smatejina
     reviews_needed: 2
 
